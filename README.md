@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Niranjan Rajkumar
+- SIMATS Engineering
+- 🌱 I’m currently learning C programming
