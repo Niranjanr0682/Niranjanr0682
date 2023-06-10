@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Niranjan Rajkumar
-- SIMATS Engineering
-- 🌱 I’m currently learning C programming
+- 👋 Hi, I’m @Niranjan Rajkumar.
+- SIMATS Engineering.
+- Department of Computer Science Engineering.
